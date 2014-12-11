@@ -9,6 +9,8 @@ public class HelloMaven {
 		System.out.println("Un ptit test avec Web Hook ??");
 		
 		System.out.println("Bon d'accord, encore une pipe");
+		
+		System.out.println("Avec une bonne black ");
 	}
-
+	
 }
