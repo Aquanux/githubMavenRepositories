@@ -7,6 +7,8 @@ public class HelloMaven {
 		System.out.println("Hello Maven on GitHub with a Java Project !!");
 		
 		System.out.println("Un ptit test avec Web Hook ??");
+		
+		System.out.println("Bon d'accord, encore une pipe");
 	}
 
 }
