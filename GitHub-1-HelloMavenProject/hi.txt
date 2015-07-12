@@ -1,0 +1,3 @@
+J'ai pris les sources su le depot distant
+
+Je fais une modification que je vais committer en local
