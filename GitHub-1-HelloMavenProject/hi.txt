@@ -1,7 +1,1 @@
-J'ai pris les sources su le depot distant
-
-Je fais une modification que je vais committer en local
-
-
-
-Encore une modification de cette sourcde en locale ma couille
+Modif LOCALE 1
