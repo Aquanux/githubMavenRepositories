@@ -1,0 +1,6 @@
+Hello GIT
+
+
+C'est Akuanux qui te dit bonjour
+
+Test pour synchronisation du depot distant 
